@@ -1,0 +1,40 @@
+REMEMBER:- apply code only on ARTboard not any layer on artboard ... your artboard should be empty just change its color as you like.
+
+
+
+How to replace images??
+-------------------------
+1-Upload your iamges on facebook, google  drive, dropbox etc anywhere online
+2- right click on image and 'copy iamge address'
+3- comeback to code and replace link under '<img src='here'>' "src" means source
+
+How to replace text??
+-------------------------
+1- just replace your text with my text under '<h3>' and '<span>' 
+
+
+How to Add more slides??
+-------------------------
+
+i added comment in code there just add the follow code and replcae iamge and text as 
+you like.
+
+NEW SLIDE CODE:
+-------------------------
+
+<div class="swiper-slide">
+      	<div class="imgBx">
+          <!-- replace your image with this link (only replace link starting from 'https') -->
+      		<img src="https://images.pexels.com/photos/4012470/pexels-photo-4012470.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" >
+      	</div>
+      		<div class="details">
+            <!-- replace your text here -->
+      			<h3>Puppy No 4<br><span>my puppy</span></h3>
+      		</div>
+	  </div>
+
+
+
+Hire UI designer at fiverr.com/binarycase10
+
+follow on instagram.com/ui_tuts
